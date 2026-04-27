@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+
+<style>
+body {
+ margin:0;
+ background:#0d1117;
+}
+#chart {
+ width:100%;
+ height:600px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div id="chart"></div>
+
+<script>
+
+const candles = JSON.parse('**CANDLE_DATA**');
+
+console.log("Candles injected:", candles.length);
+
+const chart = LightweightCharts.createChart(
+ document.getElementById("chart"),
+ {
+  layout:{
+   background:{color:"#0d1117"},
+   textColor:"#DDD"
+  },
+  timeScale:{
+   timeVisible:true,
+   secondsVisible:false,
+   tickMarkFormatter:(time, tickMarkType, locale)=>{
+    const date = new Date(time * 1000);
+    if(tickMarkType === LightweightCharts.TickMarkType.Year)
+     return date.getFullYear();
+    if(tickMarkType === LightweightCharts.TickMarkType.Month)
+     return date.toLocaleString(locale, { month: "short" });
+    if(tickMarkType === LightweightCharts.TickMarkType.DayOfMonth)
+     return date.getDate();
+    if(tickMarkType === LightweightCharts.TickMarkType.Time)
+     return date.toLocaleTimeString(locale, { hour: "2-digit", minute: "2-digit" });
+    return "";
+   }
+  }
+ }
+);
+
+const series = chart.addSeries(LightweightCharts.CandlestickSeries);
+
+series.setData(candles);
+
+chart.timeScale().fitContent();
+
+</script>
+
+</body>
+</html>

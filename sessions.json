@@ -1,0 +1,232 @@
+{
+    "20260423145205": {
+        "id": "20260423145205",
+        "name": "aiml ",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-20",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-23T14:52:05.359464"
+    },
+    "20260423150244": {
+        "id": "20260423150244",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-23",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-23T15:02:44.671672"
+    },
+    "20260423150846": {
+        "id": "20260423150846",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-23",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-23T15:08:46.874048"
+    },
+    "20260424110425": {
+        "id": "20260424110425",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:04:25.007859"
+    },
+    "20260424110616": {
+        "id": "20260424110616",
+        "name": "sam",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:06:16.266206"
+    },
+    "20260424111859": {
+        "id": "20260424111859",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-21",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:18:59.208188"
+    },
+    "20260424112159": {
+        "id": "20260424112159",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:21:59.373819"
+    },
+    "20260424112710": {
+        "id": "20260424112710",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:27:10.183724"
+    },
+    "20260424113440": {
+        "id": "20260424113440",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:34:40.572375"
+    },
+    "20260424113807": {
+        "id": "20260424113807",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:38:07.621827"
+    },
+    "20260424115237": {
+        "id": "20260424115237",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T11:52:37.573648"
+    },
+    "20260424120020": {
+        "id": "20260424120020",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-21",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T12:00:20.179104"
+    },
+    "20260424143646": {
+        "id": "20260424143646",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T14:36:46.940412"
+    },
+    "20260424144232": {
+        "id": "20260424144232",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T14:42:32.295878"
+    },
+    "20260424144635": {
+        "id": "20260424144635",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T14:46:35.336484"
+    },
+    "20260424145513": {
+        "id": "20260424145513",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T14:55:13.698491"
+    },
+    "20260424145929": {
+        "id": "20260424145929",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T14:59:29.241271"
+    },
+    "20260424151634": {
+        "id": "20260424151634",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T15:16:34.637604"
+    },
+    "20260424152459": {
+        "id": "20260424152459",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-24",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T15:24:59.248375"
+    },
+    "20260424160325": {
+        "id": "20260424160325",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-20",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-24T16:03:25.321806"
+    },
+    "20260425001320": {
+        "id": "20260425001320",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-25",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-25T00:13:20.265918"
+    },
+    "20260425001435": {
+        "id": "20260425001435",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-02-02",
+        "timeframe": "1m",
+        "description": "",
+        "created_at": "2026-04-25T00:14:35.120577"
+    },
+    "20260425001514": {
+        "id": "20260425001514",
+        "name": "",
+        "balance": 1000,
+        "pair": "XAUUSD",
+        "start_date": "2026-04-25",
+        "timeframe": "1d",
+        "description": "",
+        "created_at": "2026-04-25T00:15:14.881068"
+    }
+}

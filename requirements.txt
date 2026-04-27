@@ -1,0 +1,6 @@
+# Trading Platform Requirements
+streamlit>=1.35.0
+yfinance>=0.2.37
+pandas>=2.1.0
+numpy>=1.26.0
+plotly>=5.18.0
